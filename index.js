@@ -1,7 +1,8 @@
 const fs = require('fs')
+const path = require('path')
 require('colors')
 
-const datas = fs.readFileSync('./data/anti-emo.txt', { encoding: 'utf-8' })
+const datas = fs.readFileSync(path.join(__dirname, './data/anti-emo.txt'), { encoding: 'utf-8' })
 const sentences = datas.split('\n')
 
 function getRandomSentence () {

@@ -19,6 +19,8 @@ npm install anti-emo
 ```sh
 const console = require('anti-emo')
 console.log('我emo了')
+console.log('996太难了')
+console.log('赚钱太难了')
 ```
 
 ## Shared
