@@ -22,7 +22,7 @@ console.log('我emo了')
 console.log('996太难了')
 console.log('赚钱太难了')
 ```
-<img alt="downloads" src="./result.png" target="_blank" />
+<img alt="downloads" src="https://github.com/wantao666/anti-emo/blob/master/result.png" target="_blank" />
 
 ## Shared
 ```sh
